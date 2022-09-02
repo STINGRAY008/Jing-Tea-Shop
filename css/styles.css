@@ -1,0 +1,17 @@
+h1, h2, p {
+    text-align: center;}
+
+body {
+    background-color: rgb(228,202,168);
+    background-image: url("../images/pexels-nikolay-osmachko-230477.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.teaMenu{
+    background-color: rgb(228,202,168);
+    width: 80%;
+    background-color: orange;
+    margin-left: auto;
+    margin-right: auto;
+}
