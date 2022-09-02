@@ -10,25 +10,28 @@ body {
 }
 
 .teaMenu{
-    /*background-color: rgb(228,202,168);*/
-    background-color: rgba(228, 202, 168, 0.406)
+    background-color: rgba(228, 202, 168, 0.406); 
     width: 80%;
-    /*background-color: orange;*/
+    max-width: 500px;
+    /* background-color: orange; */
     margin-left: auto;
     margin-right: auto;
+    padding: 20px;
 }
 .teaItem p, .collectionItem p{
     /*background-color: red;*/
     display: inline-block;
+    font-weight: 400;
+    
 }
 .teaFlavor, .teaCollection{
-    background-color: red;
+    /*background-color: red;*/
     text-align: left;
     width: 75%;
 }
 
 .teaPrice, .collectionPrice{
-    background-color: blue;
+    /*background-color: blue;*/
     text-align: right;
     width: 25%;
 }
